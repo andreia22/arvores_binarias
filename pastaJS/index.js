@@ -61,9 +61,9 @@ function posOrder(tree) {
     console.log(tree.value)
 
 }
-        // console.log('preOrder')
-        // preOrder(arvore)
-        // console.log('inOrder')
-        // inOrder(arvore)
-        // console.log('posOrder')
-        // posOrder(arvore)
+         console.log('preOrder')
+         preOrder(arvore)
+         console.log('inOrder')
+         inOrder(arvore)
+         console.log('posOrder')
+         posOrder(arvore)
